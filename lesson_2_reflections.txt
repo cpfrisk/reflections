@@ -12,4 +12,8 @@ How is the staging area different from the working directory and the repository?
 
     The staging area is for things you are about to commit. It allows you to add only certain things to a commit, not the entire working directory.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+    Do a "diff --staged" to see diff between staging area and the head commit.
+
 
