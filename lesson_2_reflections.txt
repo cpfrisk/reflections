@@ -1,0 +1,15 @@
+Reflections 2,
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+     When you want to make an experimental change. When two people are working on something.
+
+What happens when you initialize a repository? Why do you need to do it?
+
+    Creates the .git directory so you can begin tracking files in that directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    The staging area is for things you are about to commit. It allows you to add only certain things to a commit, not the entire working directory.
+
+
