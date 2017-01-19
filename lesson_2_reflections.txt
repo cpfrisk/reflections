@@ -20,4 +20,8 @@ How do the diagrams help you visualize the branch structure?
 
     By reinforcing the picture in your head.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Automated is faster!!
+
 
