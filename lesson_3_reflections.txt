@@ -9,4 +9,8 @@ Descibe the differences between forks, clones, and branches. When would you use 
 	clones is to tie local to remote or visa versa.
 	branches are taking a repository in a new direction with the idea of merging it back in at some time.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	you don't have to connect to the remote to look at the changes
+
 
