@@ -13,4 +13,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	you don't have to connect to the remote to look at the changes
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	You could use emails and files. It would be harder to keep track of.
+
 
